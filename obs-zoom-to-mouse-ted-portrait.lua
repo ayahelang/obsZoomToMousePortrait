@@ -5,7 +5,7 @@
 
 local obs = obslua
 local ffi = require("ffi")
-local VERSION = "1.0"
+local VERSION = "1.3"
 local CROP_FILTER_NAME = "obs-zoom-to-mouse-crop"
 
 local source_name = ""
