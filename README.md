@@ -10,7 +10,7 @@ Designed specifically for creators making content for:
 
 <br>
 
-⚡ OBS 29 / 30 / 31 Compatible  
+⚡ OBS 29 / 30 / 31 / 32 Compatible  
 🎯 Smooth Cursor Tracking  
 🧠 Smart Portrait Viewport System
 
