@@ -1,7 +1,6 @@
 --
--- OBS Zoom to Mouse
+-- OBS Zoom to Mouse Portrait
 -- An OBS lua script to zoom a display-capture source to focus on the mouse.
--- Copyright (c) BlankSourceCode.  All rights reserved.
 --
 
 local obs = obslua
